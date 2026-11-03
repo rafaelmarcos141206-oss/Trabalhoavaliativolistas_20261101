@@ -1,0 +1,16 @@
+# Java
+*.class
+
+# C# / .NET
+bin/
+obj/
+.vs/
+
+# Rust
+target/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
